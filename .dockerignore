@@ -1,0 +1,7 @@
+.venv
+.git
+.idea
+.env
+__pycache__
+data/chroma_db
+data/chunks.json
